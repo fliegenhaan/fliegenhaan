@@ -1,7 +1,18 @@
-# Hi there, I'm Muhammad Raihaan Perdana 👋
+<h1 align="center">Hi 👋, I'm Raihaan</h1>
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fliegenhaan&show_icons=true&theme=dark)
+<!-- Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fliegenhaan&theme=radical&column=7"/>
+</p>
 
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fliegenhaan&include_all_commits=true&count_private=true)
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>[Nama]'s GitHub Stats</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fliegenhaan&theme=radical"/>
+</div>
+
+<!-- Most Used Languages -->
+<div align="center">
+  <h2>Most Used Languages</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fliegenhaan&layout=compact&theme=radical"/>
+</div>
