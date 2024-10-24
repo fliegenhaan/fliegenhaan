@@ -7,7 +7,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h2>[Nama]'s GitHub Stats</h2>
+  <h2>Raihaan's GitHub Stats</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fliegenhaan&theme=radical"/>
 </div>
 
