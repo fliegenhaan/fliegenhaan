@@ -19,5 +19,6 @@
 
 <!-- Snake -->
 <div align="center">
-  ![snake gif](https://github.com/fliegenhaan/fliegenhaan/blob/output/github-snake-dark.svg)
+  <h2>Contributions History</h2>
+  <img src="https://github.com/fliegenhaan/fliegenhaan/blob/output/github-snake.svg" alt="snake gif"/>
 </div>
