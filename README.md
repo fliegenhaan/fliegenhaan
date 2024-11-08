@@ -16,3 +16,8 @@
   <h2>Most Used Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fliegenhaan&layout=compact&theme=radical"/>
 </div>
+
+<!-- Snake -->
+<div align="center">
+  ![snake gif](https://github.com/fliegenhaan/fliegenhaan/blob/output/github-snake-dark.svg)
+</div>
