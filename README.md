@@ -5,12 +5,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=fliegenhaan&theme=radical&column=7"/>
 </p>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <h2>Raihaan's GitHub Stats</h2>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fliegenhaan&theme=radical"/>
-</div>
-
 <!-- Most Used Languages -->
 <div align="center">
   <h2>Most Used Languages</h2>
