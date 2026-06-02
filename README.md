@@ -21,6 +21,7 @@ I enjoy working on **real-world systems**, especially those involving **large-sc
 
 | Role | Company | Period |
 |-----|-------------|--------|
+| Software Engineer (Intern) | ParagonCorp | Jun 2026 – Present |
 | Software Engineer (Contract) | Direktorat Sarana & Prasarana ITB | Jun 2025 – Mar 2026 |
 | Frontend Engineer (Part-time) | Fata Organa | Sep 2025 – Feb 2026 |
 | Backend Developer (Intern) | Fata Organa | May 2025 – Sep 2025 |
