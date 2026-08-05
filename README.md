@@ -65,7 +65,7 @@ I enjoy working on **real-world systems**, especially those involving **large-sc
 ![Neon](https://img.shields.io/badge/Neon-00E5FF?style=flat&logo=postgresql&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### 🧰 Tools (CI/CD, Cloud/Infra, Monitoring/Logging)
+### 🧰 Tools (CI/CD, Infra, Monitoring/Logging)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Oracle Fusion](https://img.shields.io/badge/Oracle_Fusion-FF0000?style=flat&logo=oracle&logoColor=white)
