@@ -65,7 +65,7 @@ I enjoy working on **real-world systems**, especially those involving **large-sc
 ![Neon](https://img.shields.io/badge/Neon-00E5FF?style=flat&logo=postgresql&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### 🧰 Tools
+### 🧰 Tools (CI/CD, Cloud/Infra, Monitoring/Logging)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Oracle Fusion](https://img.shields.io/badge/Oracle_Fusion-FF0000?style=flat&logo=oracle&logoColor=white)
@@ -76,6 +76,8 @@ I enjoy working on **real-world systems**, especially those involving **large-sc
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
